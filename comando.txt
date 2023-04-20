@@ -1,0 +1,28 @@
+    1  cd /
+    2  pwd
+    3  ls
+    4  ls -l
+    5  touch ejemplclear
+    6  clear
+    7  touch ejemplo.txt
+    8  ls
+    9  chmod 444 ejemplo.txt
+   10  cl -l
+   11  ls -l
+   12  touch ejemplo2.doc
+   13  clear
+   14  ls -la
+   15  mkdir
+   16  clear
+   17  mkdir
+   18  mkdir directortio1
+   19  ls -la
+   20  mkdir directortio2
+   21  clear
+   22  ls -la
+   23  mkdir directortio3
+   24  cd directortio1
+   25  cd .
+   26  histori
+   27  history
+   28  history > comando.txt
